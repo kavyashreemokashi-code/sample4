@@ -1,0 +1,3 @@
+This my first class of my third srmester 
+this is my first file where i am learning git bash
+heelo world 
